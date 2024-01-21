@@ -20,4 +20,4 @@ npm install</code></pre>
     <p>Contributions are welcome! Fork the repository and create a pull request with your improvements.</p>
     <h2>Acknowledgments</h2>
     <p>Special thanks to OpenWeatherMap for providing the weather data API.</p>
-    <a href=" https://bitof-kartik.github.io/WeatherApp/">WeatherApp</a>
+    <a href="https://bitof-kartik.github.io/WeatherApp/">WeatherApp</a>
